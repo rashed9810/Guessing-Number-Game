@@ -36,7 +36,7 @@ You can try the game by visiting the following link:
 
 To run the game locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/number-guessing-game.git`
+1. Clone the repository: `git clone https://github.com/rashed9810/number-guessing-game.git`
 2. Navigate to the project directory: `cd number-guessing-game`
 3. Open the `index.html` file in your preferred web browser.
 
